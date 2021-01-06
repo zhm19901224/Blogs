@@ -77,7 +77,7 @@ copy(333);  // [111, 222, 333]  bbb
 ```
 
 
-#### Function.protype.call 将原函数的调用对象替换，并执行函数，第一个参数是替换的context对象，其余参数是函数执行参数。
+#### Function.prototype.call 将原函数的调用对象替换，并执行函数，第一个参数是替换的context对象，其余参数是函数执行参数。
 > 与bind相同点是, 都改变了函数调用者的指向。
 > 与bind区别是，bind返回是原函数副本，call、apply是直接执行原函数。
 
@@ -94,7 +94,7 @@ Function.prototype.myCall = function(){
 ```
 
 
-#### Function.protype.apply 和 call一摸一样，唯一区别是第二个参数是数组，函数执行时会将参数数组打散成若干个参数。
+#### Function.prototype.apply 和 call一摸一样，唯一区别是第二个参数是数组，函数执行时会将参数数组打散成若干个参数。
 > 重写apply
 ```
 Function.prototype.myApply= function(){

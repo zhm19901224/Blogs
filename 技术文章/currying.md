@@ -111,4 +111,16 @@ let baiduUri = getUri('http://')('baidu.com')('/img')
 
 console.log(baiduUri)
 
-```
+const addOne = x => x + 1;
+const addTwo = x => x + 2;
+const pipe = (input) => (...functions) => functions.reduce(
+    (accumulator, currentFunc) => {
+        input = currentFunc(accumulator);
+        return input;
+    },
+    input
+)
+
+
+let finalVal = pipe(5)(addOne, addTwo)
+console.log(finalVal)

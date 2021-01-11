@@ -74,7 +74,6 @@ co(function* (){
 > 根据co源码，将核心原理压缩成以下几行代码
 
 ```
-
 function request(params, time){
     return new Promise((resolve) => {
         setTimeout(() => {

@@ -290,3 +290,5 @@ let res = dangerWordsFilter(dangerWords, content, '*')
 console.log(res)        // 现在*很好，**是脏话, *是谁
 
 ```
+
+

@@ -15,3 +15,5 @@
 [JavaScript常用设计模式](https://github.com/zhm19901224/Blogs/blob/master/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/designPattern.md)
 
 [前端机动化测试 Jest篇](https://github.com/zhm19901224/Blogs/blob/master/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/jestTest.md)
+
+[EJS和CJS的区别？如何混用？](https://github.com/zhm19901224/Blogs/blob/master/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/ejsCjd.md)

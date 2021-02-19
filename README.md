@@ -23,3 +23,5 @@
 [nodejs常用调试方法](https://github.com/zhm19901224/Blogs/blob/master/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/nodeInspect.md)
 
 [nodejs解决Callback Hell的完美方案 betterPromisify + async function](https://github.com/zhm19901224/Blogs/blob/master/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/betterPromisify.md)
+
+[nodejs实现静态资源服务器](https://github.com/zhm19901224/Blogs/blob/master/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/nodeStaticServer.md)

@@ -32,9 +32,11 @@
 
 [原生nodejs实现大文件分片断点续传](https://github.com/zhm19901224/Blogs/blob/master/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/upload.md)
 
+[nodejs内存管理](https://github.com/zhm19901224/Blogs/blob/master/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/v8Memory.md)
+
 ### 计算机网络
 
 [关于科学上网的那些事](https://github.com/zhm19901224/Blogs/blob/master/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/GFW.md)
 
-[nodejs内存管理](https://github.com/zhm19901224/Blogs/blob/master/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/v8Memory.md)
+
 

@@ -21,7 +21,7 @@
 [关于JavaScript控制请求并发数](https://github.com/zhm19901224/Blogs/blob/master/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/requestUnderMax.md)
 
 ### nodejs
-[libuv的六个阶段看nodejs的event loop](https://github.com/zhm19901224/Blogs/blob/master/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/nodeEventLoop.md)
+[从libuv的六个阶段看nodejs的event loop](https://github.com/zhm19901224/Blogs/blob/master/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/nodeEventLoop.md)
 
 [EJS和CJS的区别？如何混用？](https://github.com/zhm19901224/Blogs/blob/master/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/ejsCjd.md)
 
